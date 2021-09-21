@@ -1,4 +1,4 @@
-# Shanthini-Banking-System
+# Biplav Banking System
 Sparks foundation Intern
 Front End -HTML,CSS,BOOTSTRAP
 Back End-Js,PHP
